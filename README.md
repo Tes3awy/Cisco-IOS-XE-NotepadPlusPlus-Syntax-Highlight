@@ -2,7 +2,7 @@
 
 <br />
 
-![Cisco Logo](cisco-logo.png)
+<img src="cisco-logo.png" alt="Cisco Logo" title="Cisco" width="300" style="display: block; margin: 0 auto;"/>
 
 <br />
 
