@@ -20,4 +20,4 @@ To change this behavior, edit `Cisco_IOS_XR_byOsamaAbbas.udl.xml` file at the fo
 
 ## Preview
 
-![Template](template.jpg)
+![Template](preview.jpg)
