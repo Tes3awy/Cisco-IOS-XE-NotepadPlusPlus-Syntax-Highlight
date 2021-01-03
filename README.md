@@ -15,7 +15,7 @@ Files with extensions `.cisco`, `.ios`, `.xr`, `.log`, and `.txt` will automatic
 To change this behavior, edit `Cisco_IOS_XR_byOsamaAbbas.udl.xml` file at the following line, remove `txt` from `ext` property, and restart NotePad++.
 
 ```xml
-<UserLang name="Cisco IOS XR" ext="cisco ios xr log txt" udlVersion="1.0">
+<UserLang name="Cisco IOS XR" ext="cisco ios xr log txt" udlVersion="3.0">
 ```
 
 ## Preview
