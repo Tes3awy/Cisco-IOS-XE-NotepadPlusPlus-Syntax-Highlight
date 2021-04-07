@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="cisco-logo.png" alt="Cisco Logo" title="Cisco" width="300" style="display: block;"/>
+<img src="assets/cisco-logo.png" alt="Cisco Logo" title="Cisco" width="300" style="display: block;"/>
 
 <br />
 
@@ -10,7 +10,7 @@
 
 After Installing [NotePad++](https://notepad-plus-plus.org/downloads/), place the `Cisco_IOS_XE_byOsamaAbbas.udl.xml` file within the `%AppData%\Notepad++\userDefineLangs` folder, and restart NotePad++.
 
-Files with extensions `.cisco`, `.ios`, `.xe`, `.log`, `.text`, `.conf`, and `.config` will automagically use this new UDL as their default language when opened with NotePad++. Remove or add any extension when desired.
+Files with extensions `.cisco`, `.ios`, `.xe`, `.log`, `.txt`, `.conf`, and `.config` will automagically use this new UDL as their default language when opened with NotePad++. Remove or add any extension when desired.
 
 To change this behavior:
 
@@ -26,4 +26,4 @@ To change this behavior:
 
 ## Preview
 
-![Preview](preview.jpg)
+![Preview](assets/preview.jpg)
